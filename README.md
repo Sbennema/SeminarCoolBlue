@@ -21,4 +21,4 @@ This project was part of the Consultancy project for Coolblue and the Seminar Ca
 9) Type CB.optimal_largest_postEff(param_eval = false) to get the optimal feature per minute results.*
 10) Type CB.plot_all() to get .png files of all figures used in the report.*
 
-\*Alternatively, type Cb.run_all() in the Julia REPL after loading the CB module to perform all these steps at once.
+\*Alternatively, type Cb.run_all() in the Julia REPL after loading the CB module to perform all these steps together.
